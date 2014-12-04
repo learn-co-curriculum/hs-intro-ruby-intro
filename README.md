@@ -5,10 +5,10 @@ type: intro
 ---
 
 ### Unit Goals
-* Explain what a **program** is and the components that make up a program
-* Explain what **strings**, **integers**, and **floats** are and how to manipulate it
+* Explain what a **program** is
+* Explain what **strings**, **integers**, and **floats** are and how to manipulate them
 * Explain what **puts** is and what it's used for
-* Explain what a **variable** is and how to use it to store pieces of data
+* Explain what a **variable** is and how to use it to store data
 * Use the gets **method** to take in user input
 * **Predict errors** in your code
 
