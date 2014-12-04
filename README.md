@@ -11,6 +11,7 @@ type: intro
 * Explain what a **variable** is and how to use it to store pieces of data
 * Use the gets **method** to take in user input
 * **Predict errors** in your code
+
 ---
 ### Welcome to Ruby!
 <img align="right" src="https://s3.amazonaws.com/after-school-assets/ruby"> **Ruby** is a simple, yet powerful programming language that you can use for everything from web development to processing text to building games. It's what is known as a `backend programming language`. *Backend programming languages handle all the behind the scenes "magic" of a website.*
