@@ -4,7 +4,7 @@ languages: ruby
 type: intro
 ---
 
-### Unit Goals
+### Students Will Be Able To...
 * Explain what a **program** is
 * Explain what **strings**, **integers**, and **floats** are and how to manipulate them
 * Explain what **puts** is and what it's used for
