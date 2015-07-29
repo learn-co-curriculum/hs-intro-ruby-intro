@@ -1,8 +1,4 @@
----
-tags: ruby, kids, intro
-languages: ruby
-type: intro
----
+
 
 ### Students Will Be Able To...
 * Explain what a **program** is
