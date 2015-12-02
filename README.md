@@ -16,3 +16,5 @@ Let's take Yelp.com, for example. Say you want to search for a sushi restaurant 
 
 Some cool sites built using Ruby: [GitHub](http://www.github.com) / [Groupon](http://www.groupon.com) / [Airbnb](http://www.airbnb.com) / [SoundCloud](http://www.soundcloud.com) / [Square](http://www.square.com) / The apps you'll all build in this course!
 
+
+<a href='https://learn.co/lessons/hs-intro-ruby-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
